@@ -1,0 +1,4 @@
+google.com#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
+google.co.kr#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
+duckduckgo.com#?#div.result:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
+
