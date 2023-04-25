@@ -1,4 +1,3 @@
-google.com#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
-google.co.kr#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
-duckduckgo.com#?#div.result:-abp-contains(/ilbe\.com|fmkorea.com|(.*)\.wiki2\.wiki/)
-
+google.*#?#div[role="main"] div#search div[data-async-context] div.g[data-hveid]:-abp-contains(/ilbe\.com|fmkorea\.com/)
+duckduckgo.com#?#div.results article:-abp-contains(/ilbe\.com|fmkorea\.com/)
+everytime.kr#?#div.card:-abp-contains(/자유게시판|비밀게시판|새내기게시판|시사·이슈|실시간 인기 글|HOT 게시물/)
